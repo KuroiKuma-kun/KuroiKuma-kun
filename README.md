@@ -1,8 +1,8 @@
 ## Oiii! Eu sou Lucas Gabriel
  <div>
   <a href="https://github.com/KuroiKuma-kun">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=KuroiKuma-kun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroiKuma-kun&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=KuroiKuma-kun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroiKuma-kun&layout=compact&langs_count=8&theme=dracula"/>
 <div>
   
   <div>
