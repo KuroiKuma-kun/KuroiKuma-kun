@@ -1,10 +1,9 @@
 ## Oiii! Eu sou Lucas Gabriel
  <div>
   <a href="https://github.com/KuroiKuma-kun">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KuroiKuma-kun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroiKuma-kun&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=KuroiKuma-kun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroiKuma-kun&layout=compact&langs_count=8&theme=dracula"/>
 <div>
-  ##
   
   <div>
   <a href = "mailto: lucasg113377@gmail.com@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
