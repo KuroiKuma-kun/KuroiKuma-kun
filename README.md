@@ -1,4 +1,6 @@
-<h1 align="center;"> Olá, Eu sou Lucas Gabriel </h1>
+<p align="left">
+<h1 align ="center">Olá, eu sou Lucas</h1>
+<img alt="Coding" src="https://user-images.githubusercontent.com/65902368/114281937-9d5d6100-9a17-11eb-813d-a05faec2b389.gif" align="right" height="450" align="right"/>
  <div>
   <a href="https://github.com/KuroiKuma-kun">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=KuroiKuma-kun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
